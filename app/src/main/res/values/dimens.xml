@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gudieview_heigh">6dp</dimen>
+    <dimen name="gudieview_width">6dp</dimen>
+
+</resources>

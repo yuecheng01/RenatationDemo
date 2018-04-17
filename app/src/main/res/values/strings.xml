@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RenatationDemo</string>
+    <string name="select_img">SelectImage</string>
+    <string name="preview_img">PreViewPhoto</string>
+</resources>
